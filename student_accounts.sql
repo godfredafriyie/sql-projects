@@ -18,4 +18,5 @@ UPDATE STUDENTS
 SET grade_level = 17
 WHERE student_enumber = 'E12719041';
 
+
 SELECT * FROM STUDENTS;
